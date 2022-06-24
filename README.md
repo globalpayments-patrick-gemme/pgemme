@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on mostly powershell
+- 🌱 I’m currently learning terraform, Ansible, and Azure Powershell
 <!--
 **pgemme/pgemme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/pgemme/count.svg)
